@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+body {
+	font-size: 0;
+}
+
+.square {
+	width: 100px;
+	height: 100px;
+	display: inline-block;
+}
+
+.color1 {
+	background-color: #b32eb3;
+}
+
+.color2 {
+	background-color: #0310ff;
+}
